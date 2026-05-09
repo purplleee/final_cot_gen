@@ -1,0 +1,11 @@
+Analyze the behavioral evidence of the following Android application.
+
+Behavioral evidence:
+{evidence}
+
+When analyzing, explicitly address:
+1. Whether the permissions and API calls are proportionate to what the application's apparent purpose would legitimately require
+2. Whether any combinations, frequencies, or patterns are characteristic of a specific threat category such as financial data interception, premium service abuse, intrusive advertising, or elevated system privilege use
+3. What the overall behavioral profile implies about the application's intent, stated as a conclusion not a possibility
+
+Base your analysis solely on the evidence above. Do not restate the evidence verbatim — summarize what the behavior implies analytically.
