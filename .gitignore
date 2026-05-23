@@ -159,7 +159,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-cot_generation/
+cot_genration/
 
 # Local secrets and credentials
 secrets/
